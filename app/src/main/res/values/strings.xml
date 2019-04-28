@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <string name="menu_list_context">全削除</string>
+    <string name="menu_list_context_header">操作を選んでください。</string>
+
+</resources>
